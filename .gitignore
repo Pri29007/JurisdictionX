@@ -24,3 +24,7 @@ build/
 # Local configuration
 .DS_Store
 Thumbs.db
+
+# AWS deployment artifacts
+backend/function.zip
+backend/dist/
